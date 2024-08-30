@@ -18,7 +18,7 @@ To run this project, ensure you have the following installed:
    git clone https://github.com/yourusername/yourproject.git
    cd yourproject
    ```
-2. **Install InfluxDB and Config **:
+2. **Install InfluxDB and Config**:
      ```
    docker run \
      --name influxdb2 \
